@@ -1,9 +1,9 @@
-package is.hi.hbv202g.ass9.compositeLeafObservedByTopLevelComposite;
-
-import static org.junit.Assert.*;
+package is.hi.hbv202g.ass9.compositeLeafObservedByComposite;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class MultiplyCompositeObserverTest {
 
