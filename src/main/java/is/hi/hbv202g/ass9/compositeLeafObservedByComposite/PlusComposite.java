@@ -3,7 +3,7 @@ package is.hi.hbv202g.ass9.compositeLeafObservedByComposite;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PlusComposite implements MathExpressions {
+public class PlusComposite implements MathExpressions, Observer {
 
     private List<MathExpressions> comps = new ArrayList<MathExpressions>();
     private int lastObservedResult;
