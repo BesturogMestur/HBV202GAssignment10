@@ -3,7 +3,7 @@ package is.hi.hbv202g.ass9.compositeLeafObserverTemplateMethod;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class SuperDuper {
+public abstract class SuperDuper implements MathExpressions, Observer {
     protected List<MathExpressions> comps = new ArrayList<MathExpressions>();
     private int lastObservedResult;
 

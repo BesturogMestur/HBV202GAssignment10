@@ -3,7 +3,7 @@ package is.hi.hbv202g.ass9.compositeLeafObserverTemplateMethod;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MultiplyComposite extends SuperDuper implements MathExpressions, Observer {
+public class MultiplyComposite extends SuperDuper {
 
 
     @Override
