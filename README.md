@@ -28,6 +28,8 @@ directories:
 
 [LICENES](LICENES.md)
 
+[Design](src/site/markdown/Design.md)
+
 Maven:
 
 - `mvn compile` compiles all implementation classes.
